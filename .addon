@@ -1,0 +1,7 @@
+{
+    "name": "imitation-assets",
+    "version": "75",
+    "sharedassets": "*.*",
+    "depends": [
+    ]
+}
